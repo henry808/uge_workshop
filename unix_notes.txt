@@ -1,0 +1,120 @@
+clear
+This command completely cleans out the terminal screen
+
+  509  ls
+  510  cd ..
+  511  ls
+  512  cd ..
+  513  ls
+  514  ls
+  515  pwd
+  516  cd /
+  517  ls -a
+  518  ls -t
+  519  ls -l
+  520  ls -lt
+  521  ls -lrt
+  522  ls -lr
+  523  man ls
+  524  ls -lT
+  525  ls -lTt
+  526  man man
+  527  man -k man
+  528  w
+  529  man
+  530  man ks
+  531  man ls
+  532  man man
+  533  man apropors
+  534  man apropos
+  535  man ls
+  536  ls -aA
+  537  ls -aAl
+  538  man ls
+  539  ls -Gl
+  540  ls
+  541  ls -l
+  542  ls -Gal
+  543  ls -R
+  544  ls
+  545  ls
+  546  ls -v
+  547  man ls
+  548  ls -x
+  549  ls -xl
+  550  ls
+  551  ls -lp
+  552  ls -lg
+  553  ls -lG
+  554  cd /Users/JustinKan/
+  555  ls
+  556  ls -lGa
+  557  ls -lG
+  558  ls -Gal
+  559  ls -Gl
+  560  ls
+  561  pwd
+  562  cd ../..
+  563  ls
+  564  ls -Gal
+  565  cd Users/JustinKan/
+  566  ls
+  567  ls
+  568  ls -l
+  569  ls -lp
+  570  cd Applications/
+  571  ls
+  572  ls -lG
+  573  cd ..
+  574  ls
+  575  cd Applications/
+  576  pwd
+  577  ls
+  578  cd ..
+  579  ls
+  580  ls
+  581  cd bin
+  582  ls
+  583  ls -la
+  584  cd subl
+  585  cd ..
+  586  ls
+  587  ls
+  588  ls
+  589  cd Movies
+  590  ls
+  591  cd ..
+  592  cd Documents/
+  593  ls
+  594  cd ..
+  595  ls
+  596  cd Downloads/
+  597  ls
+  598  ls -la
+  599  ls -laG
+  600  rm steam*.d*
+  601  ls -la
+  602  cd ..
+  603  ls
+  604  pwd
+  605  cd backups/
+  606  ls
+  607  cd session0
+  608  ls
+  609  cd
+  610  ls
+  611  pwd
+  612  ls ~
+  613  ls /
+  614  ls / -la
+  615  ls -l /
+  616  ls / -l
+  617  ls .
+  618  ls history
+  619  history
+  620  man history
+  621  history 20
+  622  history | less
+  623  cd
+  624  pwd
+  625  history > moving_around.txt
