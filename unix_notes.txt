@@ -25,7 +25,6 @@ This command completely cleans out the terminal screen
   530  man ks
   531  man ls
   532  man man
-  533  man apropors
   534  man apropos
   535  man ls
   536  ls -aA
