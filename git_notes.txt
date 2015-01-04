@@ -40,3 +40,9 @@ shows all branches
 
 git checkout <branch>
 goes to a branch
+
+
+git remote -v
+shows what computers are connected to my dir
+
+
