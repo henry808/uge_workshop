@@ -1,0 +1,48 @@
+GIT
+git init
+create new repository (collection of things that you care about)
+
+do not need to do this for projects you clone
+
+git status
+gives git state including tracked and untracked files
+
+git add 
+use to track a file
+can add a directory
+
+git add *
+track all files (puts them in the staging area)
+
+git commit -m “” saves all in staging area to circle. and saves everything in log command except for “” 
+
+saves changes and meta data
+
+git log
+
+if you delete the .git directory, the only thing left is the actual folder and it destroys the repository content.
+
+git diff --staged
+shows changes (difference between staging area and saved)
+
+propeller tab to open new tab
+
+Head points to most recent commit.
+
+Master point to very first branch (latest commit in very first branch)
+
+Branch points to a specific period of time. (specific state)
+
+git branch <branchname>
+
+git branch 
+shows all branches
+
+git checkout <branch>
+goes to a branch
+
+
+git remote -v
+shows what computers are connected to my dir
+
+
